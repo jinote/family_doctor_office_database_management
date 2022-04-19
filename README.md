@@ -1,4 +1,4 @@
-### Project Proposal
+#### Group Project Proposal
 # Family Doctor Office Database Management
 
 Doctor’s Offices are typically very traditional and old fashioned. The logistics are often maintained by physical files and require a secretary for appointment booking. This is mainly caused by the fact that (due to lengthy academical programs) the average age of doctors is significantly higher than other professions. The average age of actively licensed physicians is now 51, according to the 2016 United States Census. 
@@ -12,7 +12,7 @@ A patient file typically contains information such as first name, last name, add
 Doctors’ appointments are about 15 minutes long and there are multiple doctors and multiple doctors’ offices available.
 
 
-The entities would contain: 
+**The entities would contain:**
 - Staff (Doctors and Secretary)
 - Patients
 - Appointments
@@ -20,14 +20,22 @@ The entities would contain:
 - Service_Rendered
 
 
-Finally, the tasks have been divided as below and are subject to change:<br>
-
+Finally, the tasks have been divided as below:<br>
 Systems Analysis – Rihua<br>
 Logical and Physical Modeling – John, Hojin <br>
 Database Implementation & Application Implementation John, Youming, Hojin<br>
 
-And team members took the roles below:<br>
+**Roles below:**<br>
 Hojin Lee : System Analyst and Database Implementer<br>
 Ri Hua Lin : Analyst and Team Leader<br>
 John Akhras : Programmer and Analyst<br>
 You Ming Chen : Database Analyst<br>
+
+**Application Implementation**<br>
+Total medical cost per patient
+![Alt text](https://github.com/jinote/family_doctor_office_database_management/blob/main/total%20medical%20cost%20per%20patient.png
+)
+
+Patient examination and treatment
+![Alt text](https://github.com/jinote/family_doctor_office_database_management/blob/main/patient%20examination%20and%20treatment.png)
+
