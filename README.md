@@ -25,6 +25,10 @@ Systems Analysis – Rihua<br>
 Logical and Physical Modeling – John, Hojin <br>
 Database Implementation & Application Implementation John, Youming, Hojin<br>
 
+**Technology used:**<br>
+- SQL
+- MS Access
+
 **Roles below:**<br>
 Hojin Lee : System Analyst and Database Implementer<br>
 Ri Hua Lin : Analyst and Team Leader<br>
